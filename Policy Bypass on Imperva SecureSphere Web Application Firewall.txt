@@ -30,3 +30,4 @@ If possible, block POST requests without Content-Type header.
     * 12/07/2018 - Ticket closed.
 
     * 18/08/2018 - Public disclosure.
+
