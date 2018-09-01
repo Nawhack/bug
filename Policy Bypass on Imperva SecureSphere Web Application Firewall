@@ -11,7 +11,7 @@
 
 The Imperva WAF provides solutions to protect websites against attacks (SQL injections, cross site scripting, illegal resource access). The protect is base with policies building from Signatures (network, generic attack, known web application vulnerabilities), Application profiling and Threatradar Reputation Service.
 
-There is a bug in the Web Correlation Policy engine wich protect against SQLi and XSS.
+There is a bug in the Web Correlation Policy engine which protect against SQLi and XSS.
 
 The WAF is not able to detect malicious SQLi or XSS content in the body of POST requests without the "Content-Type" header.
 
